@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pharooq33
 - 👀 I’m interested in learning coding
-- 🌱 I’m currently learning at limiteded resources that i have 
-- 💞️ I’m looking to collaborate with anyone that can teach me
+- 🌱 I’m currently learning with the limiteded resources that i have 
+- 💞️ I’m looking to collaborate with anyone who can teach me
 - 📫 How to reach me on email at usaparuuq@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
